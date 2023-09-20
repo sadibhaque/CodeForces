@@ -11,6 +11,5 @@ int main(){
         s = s/x;
         ctr++;
     }
-
     cout<<ctr;
 }
