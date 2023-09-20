@@ -3,7 +3,6 @@ using namespace std;
 
 #define ll long long int
 void input(){
-
     freopen("/home/mendax/Workspace/Temp /input.txt","r",stdin);
     freopen("/home/mendax/Workspace/Temp /output.txt","w",stdout);
 

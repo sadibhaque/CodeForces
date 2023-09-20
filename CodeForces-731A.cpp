@@ -29,5 +29,6 @@ int main() {
     }
 
     cout<<ctr<<endl;
+    
 }
 
